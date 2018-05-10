@@ -55,7 +55,7 @@ set number
 syntax on
 
 " Set tabs to have four spaces
-set ts=4
+set ts=4 expandtab
 
 " New lines have the same level of indentation as preceeding line
 set autoindent
